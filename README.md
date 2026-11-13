@@ -47,7 +47,7 @@ Clone o repositório e execute o script diretamente no seu terminal:
 # Clone o repositório
 git clone https://github.com/HLSV/HMATRIX.git
 # Entre na pasta
-cd HMatrix
+cd HMATRIX
 
 # Conceda permissão de execução
 chmod +x HMatrix

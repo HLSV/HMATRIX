@@ -45,8 +45,7 @@ Clone o repositório e execute o script diretamente no seu terminal:
 
 ```bash
 # Clone o repositório
-git clone [(https://github.com/HLSV/HMATRIX)](https://github.com/HLSV/HMATRIX.git))
-
+git clone https://github.com/HLSV/HMATRIX.git
 # Entre na pasta
 cd HMatrix
 

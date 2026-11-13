@@ -16,6 +16,7 @@ Criado pela LDEA E HLSV PRA INOVAR ANIMAÇÃO PARECIDO COM O CMATRIX SO QUE MELH
 ---
 
 ## 🚀 Sobre o Projeto
+EM HOMENAGEM AO MEU CACHORRO QUE MORREU ESSE ANO! 2026 E HOMENAGEM A NATUREZA!
 O **HMatrix** é uma ferramenta interativa em Shell Script pura projetada para Termux, Linux e Windows. Inspirada nos clássicos visuais de terminal, ela traz um conceito moderno de matriz esférica concêntrica no centro da tela, combinada com controles em tempo real, efeitos sonoros nativos e o carismático **Cachorro Hacker**!
 
 ✨ *Desenvolvido com dedicação para quem curte personalização de terminal e efeitos visuais imersivos.*
